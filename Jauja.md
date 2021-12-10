@@ -3,6 +3,13 @@
 - Mantener la pava caliente por si piden agua para mate o té, para no gastar la de la cafetera que tarda en recuperarse.
 - Mantener cafetera limpia, antes y después de cada tirada. Vigilar temperatura y presión.
 - Horno eléctrico: para activar, presionar de arriba a abajo el primero, penúltimo y último
+- Croissants: *si viejos, calientes*
+- Nunca tocar la comida sin guantes *¿salvo por el pan?*
+- Economizar las cartas
+- Avisar que afuera se tarda más
+- Llevar Lim sau como aperitivo durante almuerzos y cenas
+- Armar la mesa, bajar servilleteros, platos y aderezos y todo lo que corresponda apenas tomo un pedido
+- Antes del almuerzo preparo paneras, quesos, dips
 
 ## Clientes Frecuentes
 - Cayetano Ruggieri
@@ -18,6 +25,8 @@
 - Fausto
 	- Leyó Fausto, no vió la película
 - Emiliano
+- Julián
+- Mariana
 - Almentra
 - Facu
 - Alfredo
@@ -118,7 +127,9 @@ Originado en:
 - Si cierro una mesa, aviso a su mozo
 - Durante almuerzo y cena, ofrezco Limsau como aperitivo
 - Heladeras:
-	- La de tortas ha de tener al menos tres porciones de cada ejemplar de las individuales y una de cada ejemplar de las enteras. Si una torta está cortada o hay una porción cortada, debe te
+	- La de tortas ha de tener al menos tres porciones de cada ejemplar de las individuales y una de cada ejemplar de las enteras. Si una torta está cortada o hay una porción cortada, debe ser cubierta con folex allí donde su interior esté expuesto, para evitar que se reseque muy rápido.
+	- La de gaseosas debe estar completa con gaseosas, agua, cervezas; con una bandeja de dips de queso rallado, otra de dips de queso untable, otra con frasquitos de mermelada, dipcitos de queso crema y paquetitos de manteca.
+- Los baños se revisan cada 30 minutos, si necesitan limpieza se avisa al bachero
 
 ## Notas varias
 - Noto muchas quejas en el equipo: discusiones con la cocina acerca de malas actitudes o reacciones hostiles a requisitos legales. Ejemplo: Un mozo pide que se marche algo, la un miembro de la cocina dice que ya se marchó y se niega a hacerlo de nuevo. El pedido no llegó a la mesa, qué pasó con el es secundario y deberíamos enfocarnos en resolver la situación de cara al cliente primero.
