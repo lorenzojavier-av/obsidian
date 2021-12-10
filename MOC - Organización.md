@@ -3,7 +3,7 @@
 
 ## Inspiración
 - [[Citas]]
-- [[Mis Reglas]]
+- [[Recordatorios elementales]]
 - [[Knowing Myself]]
 - [[Notas sin procesar]]
 - [[Comida]]

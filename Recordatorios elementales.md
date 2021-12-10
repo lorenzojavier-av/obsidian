@@ -1,0 +1,4 @@
+- Respondo mensajes de 08 a 20
+- I am like thunder
+- No necesito explicar el porqué de todo cuando propongo o justifico, basta *una* buena razón
+- Cuando espero, si espero de verdad, el tiempo pasa igual, la energía se conserva en gran medida

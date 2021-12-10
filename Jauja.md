@@ -4,6 +4,10 @@
 - Mantener cafetera limpia, antes y después de cada tirada. Vigilar temperatura y presión.
 - Horno eléctrico: para activar, presionar de arriba a abajo el primero, penúltimo y último
 
+## Clientes Frecuentes
+- Cayetano Ruggieri
+	- Figura argentina reconocida por su relación con la AFA
+	- Es un viejito divino. Amable. Cuenta chistes.
 ## Idiomas
 - *Se maneja sólo*: Hay que esperar a la cocina
 - *Marcha y sale* ó *se maneja acá*: No espera nada, se resuelve en el salón
@@ -42,6 +46,8 @@
 			- 60 ml
 	2. Taro el filtro, lo cargo y peso, anoto el peso
 	3. Taro el jarrito
+- Cafetería
+	1. Leo la orden y la pongo junto a una bandeja (ordenando por prioridad de derecha a izquierda si hay más de una orden), pongo los platos y cucharitas necesarios, azucareros, sodines.
 #### Términos
 - Distribuidor
 - Tampeador
@@ -111,7 +117,8 @@ Originado en:
 ### Mozo
 - Si cierro una mesa, aviso a su mozo
 - Durante almuerzo y cena, ofrezco Limsau como aperitivo
-
+- Heladeras:
+	- La de tortas ha de tener al menos tres porciones de cada ejemplar de las individuales y una de cada ejemplar de las enteras. Si una torta está cortada o hay una porción cortada, debe te
 
 ## Notas varias
 - Noto muchas quejas en el equipo: discusiones con la cocina acerca de malas actitudes o reacciones hostiles a requisitos legales. Ejemplo: Un mozo pide que se marche algo, la un miembro de la cocina dice que ya se marchó y se niega a hacerlo de nuevo. El pedido no llegó a la mesa, qué pasó con el es secundario y deberíamos enfocarnos en resolver la situación de cara al cliente primero.
@@ -138,20 +145,7 @@ Originado en:
 - Llevar platos extra cuando se comparta algo, en lo posible del mismo tipo que el plato a compartir
 - 
 ## Productos
-- Aperitivos
-	- Limsau
-		- Macerado de flores de sauco con rodajas de limón, mezclado con vino blanco
-		- Historia
-			- ¿Origen británico? Se tomaba con gin en vez de vino blanco. El abuelo de Camilo amaba esa bebida, y viviendo en El Bolsón descubrió que con vino blanco quedaba muy bien. (Necesito repasar la historia con Camilo)
-- Platos principales
-- Entradas
-- Postres
-- Sándwiches
-	- Pueden ser de pan árabe, de miga, integral casero 
-- Minutas
-- Desayunos
-- Combos
-- Vinos
+[Tabla en Notion](https://www.notion.so/d6156b49be0e4362a639b070cb216904?v=d86b88b6921344169921f96553828a66)
 
 ## Departamentos
 ### Cocina
