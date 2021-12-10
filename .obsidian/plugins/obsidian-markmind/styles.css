@@ -101,6 +101,10 @@
   padding: 0;
   margin: 0;
 }
+.mm-node-edit > ol,
+.mm-node-edit > ul{
+  padding-left: 20px;
+}
 
 .mm-node.mm-root .mm-node-content {
   font-size: 1.6em;
@@ -259,7 +263,7 @@
   border:1px solid #000;
   width:160px;
   border-radius: 0.25rem;
-  z-index: 60;
+  z-index: 6000;
 }
 
 .theme-light .mm-node-menu{
@@ -288,7 +292,7 @@
 
 .mm-drag {
   position: absolute;
-  z-index: 7000;
+  z-index: 5000;
   left: 2000px;
   top: 2000px;
   color: #f5f5f5;
@@ -1098,7 +1102,7 @@
   background-color:rgb(68 68 68);
   border: 1px solid #000;
   color: white;
-  z-index: 400;
+  z-index: 6000;
   border-radius:5px;
 }
 
@@ -1144,13 +1148,18 @@
   background-color: wheat;
   color:#333;
   overflow: auto;
-  z-index: 200;
+  z-index: 6000;
   display: none;
 }
 .mm-node-note-container{
   padding: 10px;
   box-sizing: border-box;
   font-size: 14px;
+}
+
+.block-language-mindmap{
+  
+  height: 600px;
 }
 
 

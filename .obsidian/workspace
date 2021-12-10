@@ -177,7 +177,7 @@
             }
           },
           {
-            "id": "255e60f865476668",
+            "id": "54cab595d76d972e",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -185,15 +185,7 @@
             }
           },
           {
-            "id": "9b245dbc1e2bc196",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "277a9f1ccf028802",
+            "id": "3866595ccd6ea9fd",
             "type": "leaf",
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
@@ -201,7 +193,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
