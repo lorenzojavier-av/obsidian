@@ -10,7 +10,7 @@
   "listChangedFilesInMessageBody": true,
   "showStatusBar": true,
   "updateSubmodules": false,
-  "gitPath": "/home/lorenzo/Documentos/01 Baúl",
+  "gitPath": "/home/lorenzo/Documentos/01 Baúl/.git",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": false
 }
