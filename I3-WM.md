@@ -1,0 +1,3 @@
+- https://sergioquijanorey.github.io/i3/linux/programacion/administracion/2018/09/09/configuraci%C3%B3n-i3wm.html
+- https://thevaluable.dev/i3-config-mouseless/
+- https://gist.github.com/jparrill/794544300af246e5cf24ad52ccd1296c

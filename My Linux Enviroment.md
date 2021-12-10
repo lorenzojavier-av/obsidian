@@ -1,0 +1,2 @@
+- gnome-session-properties *(manage autostart applications)*
+- chmod +x FILE *(make file executable)*

@@ -1,0 +1,1 @@
+1. [Símbolos matemáticos](https://en.wikipedia.org/wiki/List_of_mathematical_symbols_by_subject)

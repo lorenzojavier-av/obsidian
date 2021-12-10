@@ -1,0 +1,2 @@
+- [ ] Completar la prueba de Moti
+- [ ] Repasar html.minder

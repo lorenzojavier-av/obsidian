@@ -1,0 +1,1 @@
+"Nací con inclinaciónes que no puedo cambiar. No voy a aprender. Si no fuí bueno en matemáticas hasta ahora, nunca lo seré; no tiene caso intentar estudiar."

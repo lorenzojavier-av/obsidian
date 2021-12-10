@@ -1,0 +1,2 @@
+- Juan Cervantes
+	- Vino de Citi Bank, es el director de márketing y el responsable del diseño de marca y del sobre retráctil en que viene la tarjeta (el sobre del que me enamoré) *Fuente: un chileno que fué a comer a Jauja. Pagó con Brubank entablamos una conversación al respecto. Me dijo que era amigo de quien Juan.*

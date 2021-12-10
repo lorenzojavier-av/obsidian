@@ -1,0 +1,1 @@
+- [10 Vivaldi shortcuts you should try today | Vivaldi Browser](https://vivaldi.com/blog/10-shortcuts-you-should-try-today/)

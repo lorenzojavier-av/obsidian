@@ -1,0 +1,1 @@
+Remember to check if it is really sea salt, becausa the common salt usually has been depleted of most other minerals, and can cause a sort of depletion. Of what? Ha, I don't remember. You will need to look for that.

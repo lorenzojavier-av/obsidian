@@ -1,0 +1,1 @@
+- [Don't Say This On A Call With A New Client](https://www.youtube.com/watch?v=h_0nVWiJ2GI)

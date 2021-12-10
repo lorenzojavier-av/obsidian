@@ -1,0 +1,63 @@
+«No te rindas, aún estás a tiempo de alcanzar y comenzar de nuevo,
+
+aceptar tus sombras, enterrar tus miedos,
+
+liberar el lastre, retomar el vuelo.
+
+ 
+
+No te rindas que la vida es eso,
+
+continuar el viaje, perseguir tus sueños,
+
+destrabar el tiempo, correr los escombros y destapar el cielo.
+
+ 
+
+No te rindas, por favor no cedas,
+
+aunque el frío queme, aunque el miedo muerda,
+
+aunque el sol se esconda  y se calle el viento.
+
+ 
+
+Aún hay fuego en tu alma, aún hay vida en tus sueños.
+
+Porque la vida es tuya y tuyo también el deseo,
+
+porque lo has querido y porque te quiero,
+
+porque existe el vino y el amor, es cierto.
+
+Porque no hay heridas que no cure el tiempo.
+
+ 
+
+Abrir las puertas, quitar los cerrojos,
+
+abandonar las murallas que te protegieron,
+
+vivir la vida y aceptar el reto.
+
+ 
+
+ Recuperar la risa, ensayar un canto,
+
+bajar la guardia y extender las manos,
+
+desplegar las alas e intentar de nuevo,
+
+Celebrar la vida y retomar los cielos. (…)
+
+ 
+
+Porque cada día es un comienzo nuevo,
+
+porque esta es la hora y el mejor momento.
+
+porque no estás sol@, porque yo te quiero.”
+
+ 
+
+Mario Benedetti

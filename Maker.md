@@ -1,0 +1,2 @@
+- ¿Y si hago un par de cartucheras? 
+- Chest "pouch", kinda witcher's

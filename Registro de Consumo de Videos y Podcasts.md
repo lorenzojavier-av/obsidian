@@ -1,0 +1,1 @@
+Quedé con mi terapeuta en que intentaría registrar por una semana

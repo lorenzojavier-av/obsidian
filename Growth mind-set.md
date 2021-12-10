@@ -1,0 +1,1 @@
+"Con dedicación y práctica puedo aprender y mejorar cualquier habilidad o cuerpo de conocimiento. Puedo afinar mis sentidos, incrementar mi fuerza, entrenar mi memoria, aprender lo suficiente de programación como para crear herramientas que me interesen."

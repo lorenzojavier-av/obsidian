@@ -1,0 +1,1 @@
+- A menudo proclama por lo bajo *¡Muere!* o *¡Muéranse todos!*.

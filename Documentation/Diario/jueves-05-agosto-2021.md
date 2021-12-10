@@ -1,0 +1,1 @@
+Hello. Buenas tardes. Quiero un sistema, un hábito, quiero mirar un calendario, ver los horarios del mundo... Quiero saber cada día quién soy, qué papel jueg

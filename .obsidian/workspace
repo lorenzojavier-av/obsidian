@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "dc3a01709b6f8446",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6666b7983d01568",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mudanza diciembre 2021.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "fd6e91616f8fefab",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mis Reglas.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "7b18aefa5c3ee401",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Jauja.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "ba3a399c70c99ff5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Historia del Mundo.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "82a216fed7de791b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "My Linux Enviroment.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "60343cdded3d88bc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "home/lorenzo/MEGAsync/Baúl/Documentation/Diario/2021-W48.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "266f95d8f729de78",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "GTD.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e80c860cf088d5a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "fee0c879ac2c0458",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76f838fdbdd28ea4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b6c7cafebded0c2b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "My Linux Enviroment Cheatsheet",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3fc7c605d901319e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5036334991455
+  },
+  "right": {
+    "id": "5cafcdf7e7db6d9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "105c90daf4bcace9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4f9a0a8a6893007",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Jauja.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ef5a471fcc444ed9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "26449220a23a013a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Jauja.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "255e60f865476668",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9b245dbc1e2bc196",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "277a9f1ccf028802",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 312.4783630371094,
+    "collapsed": true
+  },
+  "active": "7b18aefa5c3ee401",
+  "lastOpenFiles": [
+    "Jauja.md",
+    "Mis Reglas.md",
+    "Brubank.md",
+    "MOC - Organización.md",
+    "Planes.md",
+    "Mudanza diciembre 2021.md",
+    "Café.md",
+    "Mucílago.md",
+    "EFI.md",
+    "GTD.md"
+  ]
+}

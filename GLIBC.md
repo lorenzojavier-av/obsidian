@@ -1,0 +1,5 @@
+# GLIBC
+
+
+---
+#programación 

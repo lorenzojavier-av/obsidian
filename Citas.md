@@ -1,0 +1,9 @@
+# Citas
+1. "Doing as others told me, I was blind. Coming when others called me, I was lost. Then I left everyone, myself as well. Then I found everyone, myself as well." ~ [[Rumi]]
+2. "Narcissim is the most shame based of all the personality disorders. It is not about self-love at all, it's about grandiosity driven by high performance and self hatred. Narcissim is the shame based fear of being ordinary." ~ [[Brené Brown]]
+3. "If you can't see yourself working with someone for life, don't work with them for a day." ~ [[Naval Ravikant]]
+4. “It is not for nothing that our age cries out for the redeemer personality, for the one who can emancipate himself from the grip of the collective [psychosis] and save at least his own soul, who lights a beacon of hope for others, proclaiming that here is at least one man who has succeeded in extricating himself from the fatal identity with the group psyche.” ~ [[Carl Jung]]
+5. "Don't sell the future for the pleasures of the present." ~ [[Jordan Peterson]]
+6. "There is a tide in the affairs of men, Which taken at the flood, **leads on to fortune**. Omitted, all the voyage of their life is bound in shallows and in miseries. On such a full sea are we now afloat. And we must take the current when it serves, or lose our ventures." ~ [[William Shakespeare]]
+7. “But I'll tell you what hermits realize. If you go off into a far, far forest and get very quiet, you'll come to understand that you're connected with everything.” ~ [[Alan Watts]]
+8. "The right way to wholeness is made up of…fateful detours and wrong turnings. It is a longissima via, not straight but snakelike, a path that unites the opposites in the manner of the guiding caduceus, a path whose labryrinthine twists and turns are not lacking in terrors." ~[[Carl Jung]]

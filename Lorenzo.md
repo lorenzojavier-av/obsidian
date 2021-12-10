@@ -1,0 +1,6 @@
+- ¿A qué le teme?
+- ¿Qué quiere?
+- ¿Qué rechaza?
+- ¿Qué busca?
+- ¿De qué se enorgullece?
+- ¿De qué se avergüenza?

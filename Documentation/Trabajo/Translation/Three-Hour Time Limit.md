@@ -1,0 +1,3 @@
+*Extracto de https://www.atanet.org/certification-exam/the-what-and-why-of-certification-exam-conditions/*
+
+**Three-Hour Time Limit**: Most translators work under deadlines. Exam passages are approximately 250 words each, and candidates are required to complete two of them. This works out to fewer than 175 words/hour, which should be adequate for practicing translators to produce a good text, including time to proofread their work.

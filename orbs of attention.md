@@ -1,0 +1,2 @@
+- The more relaxed one is, the more this spheres of attention can move around
+- The more alert one is, the more rigidly they are tethered in place

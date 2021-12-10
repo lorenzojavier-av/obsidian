@@ -1,0 +1,6 @@
+- [[Chris Do]]
+- [[Allan Watts]]
+- [[Sadhguru]]
+- [[Jordan Peterson]]
+- [[Gabor Mate]]
+- [[Wallstreet Trapper]]

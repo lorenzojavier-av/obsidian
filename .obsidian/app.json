@@ -1,0 +1,16 @@
+{
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "spellcheck": false,
+  "strictLineBreaks": true,
+  "foldHeading": true,
+  "spellcheckDictionary": [
+    "onboarded"
+  ],
+  "attachmentFolderPath": "Adjuntos",
+  "showLineNumber": true,
+  "vimMode": false,
+  "foldIndent": true,
+  "showFrontmatter": true
+}

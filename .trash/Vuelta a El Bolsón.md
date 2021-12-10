@@ -1,0 +1,7 @@
+# Preparativos para el vuelo
+**Requisitos para ingresar a San Carlos de Bariloche (BRC)**: Se requiere la presentación del permiso CirculaRN aprobado, el cual se deberá tramitar por grupo familiar a través del sitio web [_https://circulacionrn.rionegro.gov.ar_](https://circulacionrn.rionegro.gov.ar/) hasta 72 horas antes del viaje e imprimir/ mostrar el comprobante generado.  
+Adicionalmente, se deberá presentar en formato impreso DECLARACIÓN JURADA en donde se indiquen datos personales e itinerario previsto accesible a través del portal [_https://www.rionegro.gov.ar/download/archivos/00014306.pdf_](https://www.rionegro.gov.ar/download/archivos/00014306.pdf) cual deberá ser gestionada con no más de 24 hs. de antelación al vuelo.  
+A partir del 03 de Mayo 2021 será requerido que los pasajeros presenten certificado de testeo tipo PCR o ANTÍGENOS con resultado negativo/ no detectable realizado con no más de 72 hs. de antelación a la fecha de ingreso. Quedan exceptuados de su presentación los menores de diez (10) años que viajen acompañados.  
+_Fuente:_ [_http://www.bariloche.gov.ar_](http://www.bariloche.gov.ar/)_;_ [_https://www.argentina.gob.ar/circular/turismo/rio-negro_](https://www.argentina.gob.ar/circular/turismo/rio-negro)Resolución 2996 del Ministerio de Salud de la Provincia de Río Negro. Nota aclaratoria emitida el 03 de Mayo 2021 por la Secretaría de Transporte de la Pcia. de Río Negro.
+
+---

@@ -1,0 +1,1 @@
+- [21 Different Types of Articles](https://www.popoptiq.com/types-of-articles/)

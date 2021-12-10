@@ -1,0 +1,2 @@
+Jueves 22 de julio, 13:43.
+Busco guardar un registro escrito de mi vida. Para recordar mejor, para ayudarme a mantener una historia, y un mapa. Quiero saber de las trampas comunes. De los patrones de comportamiento recurrentes. De los eventos más notorios. Quiero construirlo poco a poco. Uniendo primero mi nacimiento y mi presente. Luego ir haciendo pasadas de unos pocos minutos, agregando algún dato o corrigiendo algo. Tomará paciencia y constancia. Años. Y me servirá muchísimo.

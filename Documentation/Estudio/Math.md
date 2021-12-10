@@ -1,0 +1,5 @@
+# Sábado 28 de Agosto
+
+Empecé a leer--otra vez--*All The Mathematics You Missed But Need To Know For Graduate School*. 25 minutos. Dios. Fué dificil. Está más arriba de lo que necesito, de lo que me interesa. Busco aprender lo más elemental. Busco las bases de la aritmética. Sumar, restar, dividir, multiplicar. Eso y algo de geometría. Sin duda me interesan cosas más complejas, pero entiendo que estoy muy lejos. Así que voy a dejar éste libro de lado por ahora, conservándolo como recurso para el futuro. Ah... me siento estúpido. Pero así son las cosas. No sé nada de matemáticas. Y no aspiro a dominarlas. Pero reconozco que las necesito. Así que calma. La mayoría de la gente no sabe. Calma.
+
+¿Entonces?, ¿cuál es el siguiente paso? Buscar aritmética. Me pregunto si tiene sentido la idea de buscar la aritmética desarrollada por la cultura indú... quizá mejor empezar por la occidental, y cuando sepa un poco de sánskrito leo al respecto. Así que **aritmética**. Mirá: https://es.khanacademy.org/math/arithmetic.

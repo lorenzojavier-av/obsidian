@@ -1,0 +1,2 @@
+Estoy haciendo un test para oneforma, revisando horarios. Fallé tres hits. Uno por no notar que el horario de cierre tenía AM en vez de PM, otro porque se trataba de una oficina de correos listando varios horarios, y en ése caso no se sabe si es más importante el horario de atención al público o el acceso a las casillas de correo, por lo tanto debió juzgarse "No" a la pregunta *Did you find an authoritative website which clearly lists the core hours of operation?*
+

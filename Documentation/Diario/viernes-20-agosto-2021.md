@@ -1,0 +1,18 @@
+I am trapped.
+
+I claim full ownership of my life.
+
+Remember inflammation. Not a small thing.
+
+Breweries. Back to the local, to the craft. The man who makes his own knives.
+
+Maybe I am dealing with this complicated decision.
+
+I love writing. I love computers. I love design. I love craft. I love truth. I love comfortable, practical, beautiful garments. I love sewing. I love dancing.
+
+---
+#PáginasDiarias 
+
+*14:53* Buenos días. Estoy sentado al escritorio. Me respondió el youtuber de freelanceverse. Aceptó mi oferta de traducir un vídeo por semana--I meant translate and subtitle--. Ay, tengo tantas preguntas. Pero quiero honrrar el momento. Estoy estcribiendo a diario. Otra vez. Voy por la semana. Es un montón. Felicitaciones. Me gustaría expresar cómo me siento. Para saber. Porque no sé. A ver... Sucio. Abrumado. Avergonzado. Confundido. Hoy haré algo en la casa. Algo. Poner esas malditas maderas, bien puestas. Hoy le voy a responder al youtuber. Hoy voy a averigüar dónde puedo hacerme el test de Covid para entrar a bariloche. Ay, amaría tener una computadora como esta, con pantalla Súper AMOLED. ¡Imaginate el modo oscuro! Bueno, acá estoy. Al menos me presento, y eso es bueno. No quiero preocuparme por la cantidad de palabras. Prefiero concentrarme en escribir. Necesito algo importante. Practicar, desarrollar la explicación. Me siento como si no pudiera explicar nada. Me parece que estoy bien jodido. Me estoy curando, volviendo a mí. Pero, ¡Ay! Qué difícil... Qué difícil. Guy Ritchie. Sí, director *Sherlock Holmes* y su secuela, entre otras. Ah, que bien se siente escribir. Soy bueno en esto. Me gusta. Es como estar en una juguetería, y tener todo el dinero que pueda querer... ¿Por dónde empezar? Estoy en proceso de reencuentro conmigo-mismo. Calma. Wow, me late fuerte el corazón. Pensé en Darío. Y yo chupándole la pija, cuando tenía nueve años. Es un recuerdo muy recurrente. Fué la primera vez que ví semen. Mi madre y Osvaldo estaban en la habitación a unos 10 metros, y no nos oían. Una vez ellos no estaban, y Darío quería que me siente en su pito. Mo ofreció dos pesos. Creo que no acepté enseguida, pero al final lo hice. Y no me dió los dos pesos. Me sentí muy mal. Cuando dormían todos, se los robé. Al otro día él y su hermano--Osvaldo--me preguntaron por la plata, y les mentí. Buscaron por todos lados, dieron vuelta mi colchón, y no la encontraron. Me sentí muy mal, estaba indignado, pero no me atrevía a decir la verdad de la situación. Bueno, recién pensé en eso, y en mi tía que viene pronto con Evelyn y su esposo. Ella es la hermana de Darío. Por un momento pensé en decirle, o en cómo sería si le lo contara... y ahí se me aceleró el corazón. Ah, basta de eso, por ahora. Hay trabajo que hacer. Creo que a ella le gutaría ver que me apasiona la costura. Ojalá no me juzgue severamente, me gustaría que eso no me afecte, pero no puedo contar con eso. Otra cosa muy importante que estuve pensando es mi pasión por la ropa, y en Guy Ritchie. En su entrevista con Joe Rogan, Guy habló de su traje. De la importancia de usar su traje, poseerlo, quererlo. No usarlo porque es la norma, porque se lo imponen otros. Sino que lo usa es parte para los otros, pero tomando total responsabilidad sobre el, adaptándolo a su propio estilo, haciéndolo su prenda más cómoda. Su armadura. Escucharlo me animó, escucharé ésa conversación muchas veces más. Yo busco que mi ropa sea mi armadura. Parte por parte exploro la forma, el cómo adaptarla a mi cuerpo, el cómo presentarme de manera que la sociedad me acepte, y que al mismo tiempo le sea absolutamente fiel a mi corazón. Armadura.
+
+---

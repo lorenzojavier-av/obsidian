@@ -1,0 +1,1 @@
+Mi día es más estable si tengo algo de comida preparada

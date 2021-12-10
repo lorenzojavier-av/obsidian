@@ -1,0 +1,6 @@
+{
+  "autorun": true,
+  "folder": "Documentation/Diario",
+  "format": "dddd-DD-MMMM-YYYY",
+  "template": "Plantillas/Diario"
+}

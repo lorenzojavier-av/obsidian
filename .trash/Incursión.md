@@ -1,0 +1,1 @@
+https://74fdc.wordpress.com/2012/08/25/external-frame-backpacks-applying-the-old-ways-to-the-new-journeys/

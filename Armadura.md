@@ -1,0 +1,7 @@
+[[Calza]]
+[[Pantalón]]
+[[Musculosa]]
+[[Chaleco]]
+[[Buzo]]
+[[Remera de mangas largas]]
+[[Calzado]]
