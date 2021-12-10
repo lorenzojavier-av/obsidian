@@ -1,4 +1,12 @@
 
+## Machete
+- Mantener la pava caliente por si piden agua para mate o té, para no gastar la de la cafetera que tarda en recuperarse.
+- Mantener cafetera limpia, antes y después de cada tirada. Vigilar temperatura y presión.
+- Horno eléctrico: para activar, presionar de arriba a abajo el primero, penúltimo y último
+
+## Idiomas
+- *Se maneja sólo*: Hay que esperar a la cocina
+- *Marcha y sale* ó *se maneja acá*: No espera nada, se resuelve en el salón
 ## Equipo
 - Inés
 	- Tiene un hijo, Vito, de 2 años (a la fecha, miércoles 2021-12-08)
@@ -68,23 +76,33 @@
 Originado en:
 ¿Cómo va de semilla a planta, de planta a grano tostado?
 ### Cajero
-1. Pasar mesas al turno que viene
-2. Tesorería/cajas operativas abiertas/detalle agrupado/
-	1. Acá puedo ver el el estado de la caja dividido en:
-		1. Efectivo
-		2. Tarjetas de crédito
-			1. Mastercard
-			2. Visa
-			3. American Express
-		3. Tarjetas de débito
-			1. Mastercard
-			2. American Express
-			3. Maestro
+#### Procedimientos
 - Arqueo:
-	1. Comparo el  estado de la caja con el del posnet, luego con el efectivo.
+	1. Tesorería/cajas operativas abiertas/detalle agrupado/
+		1. Acá puedo ver el el estado de la caja dividido en:
+			1. Efectivo
+			2. Tarjetas de crédito
+				3. Mastercard
+				4. Visa
+				5. American Express
+			3. Tarjetas de débito
+				1. Mastercard
+				2. American Express
+				3. Maestro
+
+	1. Posnet: Con la pantalla apagada, lo enciendo, ingreso la clave *1234,* voy a reportes en la barra inferior, selecciono *este dispositivo* en la esquina superior derecha.
+	2. Comparo el  estado de la caja con el del posnet.
+	3. Cuento el efectivo, descontando *$1000* del fondo y 3000 de *inicio*, comparo el resultado con el informe de la caja
+	4. Si todo da bien, termino acá.
+	5. Posibles errores:
+- Apertura de la caja
+- Entrega de la caja al siguiente turno
+	 - Pasar mesas al turno que viene
+
 - Compras por el personal:
 	- Aplico descuento del %50, cobro y registro en la planilla como "%50" Requiere firma del comprador
 	- Si es café que se consume durante el turno, no lo cobro y registro en la planilla como "%100", no requiere firma del consumidor
+- 
 ### Telefonista
 - Whatsapp
 	- Códigos
@@ -95,7 +113,7 @@ Originado en:
 - Durante almuerzo y cena, ofrezco Limsau como aperitivo
 
 
-## Notas
+## Notas varias
 - Noto muchas quejas en el equipo: discusiones con la cocina acerca de malas actitudes o reacciones hostiles a requisitos legales. Ejemplo: Un mozo pide que se marche algo, la un miembro de la cocina dice que ya se marchó y se niega a hacerlo de nuevo. El pedido no llegó a la mesa, qué pasó con el es secundario y deberíamos enfocarnos en resolver la situación de cara al cliente primero.
 - ¿Qué necesito saber cuando tomo un pedido?
 	- Dirección, nombre de quien hace el pedido, nombre de quien lo recibe, medio de pago, pedido...
@@ -128,6 +146,8 @@ Originado en:
 - Platos principales
 - Entradas
 - Postres
+- Sándwiches
+	- Pueden ser de pan árabe, de miga, integral casero 
 - Minutas
 - Desayunos
 - Combos

@@ -17,6 +17,11 @@
     },
     {
       "type": "file",
+      "title": "Mudanza diciembre 2021",
+      "path": "Mudanza diciembre 2021.md"
+    },
+    {
+      "type": "file",
       "title": "Terapia",
       "path": "Documentation/Salud mental/Terapia.md"
     },
@@ -87,11 +92,6 @@
     },
     {
       "type": "file",
-      "title": "Untitled",
-      "path": "Telus/Assesment.md"
-    },
-    {
-      "type": "file",
       "title": "Things I want to make, or I believe I want to make",
       "path": "Things I want to make, or I believe I want to make.md"
     },
@@ -154,6 +154,16 @@
       "type": "file",
       "title": "My Linux Enviroment",
       "path": "My Linux Enviroment.md"
+    },
+    {
+      "type": "file",
+      "title": "Mis Reglas",
+      "path": "Mis Reglas.md"
+    },
+    {
+      "type": "file",
+      "title": "Assesment",
+      "path": "Telus/Assesment.md"
     }
   ]
 }

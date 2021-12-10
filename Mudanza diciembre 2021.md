@@ -1,4 +1,6 @@
 # Plan
+**Next Action:** Obtengo la constancia de trabajo
+
 ## Salgo de:
 [[Al Alba]]
 ## Voy a:
