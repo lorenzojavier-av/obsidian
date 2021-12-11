@@ -32,7 +32,7 @@
           "type": "markdown",
           "state": {
             "file": "pro_Kambo.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -127,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5036334991455
+    "width": 245.5036334991455,
+    "collapsed": true
   },
   "right": {
     "id": "5cafcdf7e7db6d9f",
@@ -192,21 +193,28 @@
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {}
             }
+          },
+          {
+            "id": "0af4a8b8a4a7fdbd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 312.4783630371094,
-    "collapsed": true
+    "width": 312.4783630371094
   },
   "active": "6b4fe06674a7f8b8",
   "lastOpenFiles": [
     "pro_Kambo.md",
+    "Jauja.md",
     "Planes.md",
     "MOC - Organización.md",
-    "Jauja.md",
     "Recordatorios elementales.md",
     "Telus/Assesment.md",
     "Mudanza diciembre 2021.md",
