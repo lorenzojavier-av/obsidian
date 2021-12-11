@@ -1,0 +1,4 @@
+- Cuándo
+- Dónde
+- Por qué
+- Con quién

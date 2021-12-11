@@ -10,6 +10,7 @@
 - Llevar Lim sau como aperitivo durante almuerzos y cenas
 - Armar la mesa, bajar servilleteros, platos y aderezos y todo lo que corresponda apenas tomo un pedido
 - Antes del almuerzo preparo paneras, quesos, dips
+- Empanadas de merluza y atún, cebolla y queso, cordero, pueden salir a la minuta (fritas). Las de carne, jamón y queso, sólo al horno.
 
 ## Clientes Frecuentes
 - Cayetano Ruggieri
@@ -30,6 +31,7 @@
 - Almentra
 - Facu
 - Alfredo
+- Facundo
 - Fede
 	- Me parece un buen tipo que maneja una responsabilidad muy grande lo mejor que puede. A veces puede parecer un ogro, creo que no lo es.
 - Mariela
@@ -40,6 +42,7 @@
 	- Bajita, delgada, como una niña. Trabajó en la heladería y ahora en administración. Es muy amable, me cayó súper bien. Me pareció alegre.
 - Lucas
 	- Bachero. Amable. Me trata muy bien.
+	- 
 ## Mis Personas Profesionales
 ### Barista
 #### Procedimientos
