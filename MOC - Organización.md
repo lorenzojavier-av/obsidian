@@ -17,7 +17,7 @@
 - [[Matemática]]
 - [[Mis maestros, y qué me inspira cada uno]]
 - [[Plan FINES 2022]]
-- [[Planes]]
+- [[Proyectos]]
 - [[Procesamiento de información]]
 - [[Programación]]
 - [[Recomendaciones]]
