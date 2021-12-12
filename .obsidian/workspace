@@ -42,7 +42,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Proyectos.md",
+            "file": "pro_GTD.md",
             "mode": "source"
           }
         }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proyectos.md",
+                "file": "pro_GTD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proyectos.md",
+                "file": "pro_GTD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -221,6 +221,7 @@
   },
   "active": "84ae7abaa0fc3caf",
   "lastOpenFiles": [
+    "pro_GTD.md",
     "Proyectos.md",
     "MOC - Organización.md",
     "pro_Kambo.md",
@@ -229,7 +230,6 @@
     "Jauja.md",
     "Recordatorios elementales.md",
     "Telus/Assesment.md",
-    "Mudanza diciembre 2021.md",
-    "2022-Q1.md"
+    "Mudanza diciembre 2021.md"
   ]
 }

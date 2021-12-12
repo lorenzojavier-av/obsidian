@@ -1,0 +1,27 @@
+## Useful Verbs
+-   Book
+-   Brainstorm
+-   Buy
+-   Call
+-   Copy
+-   Discuss
+-   Draft
+-   Edit
+-   Email
+-   Fill out
+-   Find
+-   Gather
+-   Load
+-   Outline
+-   Print
+-   Purge
+-   Read
+-   Record
+-   Register
+-   Research
+-   Review
+-   Schedule
+-   Update (single-step)
+-   Verify
+-   Wait For
+-   Write
