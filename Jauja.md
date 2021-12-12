@@ -11,6 +11,7 @@
 - Armar la mesa, bajar servilleteros, platos y aderezos y todo lo que corresponda apenas tomo un pedido
 - Antes del almuerzo preparo paneras, quesos, dips
 - Empanadas de merluza y atún, cebolla y queso, cordero, pueden salir a la minuta (fritas). Las de carne, jamón y queso, sólo al horno.
+- Delivery: *Radio urbano*
 
 ## Clientes Frecuentes
 - Cayetano Ruggieri
