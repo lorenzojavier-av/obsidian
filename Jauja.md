@@ -194,6 +194,7 @@ Tuve la entrevista el martes 24 de noviembre. Tuve la prueba el jueves 25 de nov
 	- Ema me dijo que vengo muy bien con las comandas, que están bien claras. Fué re lindo :)
 - Miércoles 8, **12 a 16 hs**
 	- Conflicto entre Fede e Inés. Ella le dijo algo en público que era una especie de reclamo. Parecía genuino, sin embargo Fede respondió irritado y sin paciencia, como un dictador. Fué feo. Los quiero a ambos. Pienso que Inés tiene muchas cosas de las que quejarse, quizá por eso tiene poco compromiso. Fede parece tener mucha responsabilidad, y estar muy cansado. Sin duda recibe una gran parte de las quejas. Creo que parte de su reacción tiene que ver con la manera en que Inés lo enfrentó, y en que lo hizo frente a otros miembros del equipo y a la vista de la clientela, así que él se mostró pétreo, como destacando su posición de autoridad. ¿Podré ser puente entre ellos?
+	- Isabel me dijo que quería hablar un poco. Fuimos al patio a ordenar y recojer basura. Me pidió fomentar el equipo y no la división.
 - Jueves 9, **16 a 16:30 hs**
 	- La reunión fué breve. Fué de carácter informativo. Los puntos fueron estos:
 		- Daniela retorna el manto de encargada a Fede
@@ -202,6 +203,11 @@ Tuve la entrevista el martes 24 de noviembre. Tuve la prueba el jueves 25 de nov
 		- Soy un cajero-barista en capacitación
 		- Puntualidad
 		- No usar el celular frente a la clientela
-- Viernes 10, **10 a 18 hs**<--(corriente)
+- Viernes 10, **10 a 18 hs**
+	- Acordamos dividir las propinas por turno y cabeza unificando cocina y salón.
+	- Me agregaron al grupo de Whatsapp
 - Sábado 11, **8 a 16 hs**
-- Domingo 12, **8 a 16 hs**
+	- Dividimos las mesas en plazas, fué mejor.
+- Domingo 12, **8 a 16 hs**<--(corriente)
+
+### Tercera semana
