@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finanzas.md",
+                "file": "Jauja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Finanzas.md",
+                "file": "Jauja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,10 +198,10 @@
     "direction": "horizontal",
     "width": 312.4783630371094
   },
-  "active": "84ae7abaa0fc3caf",
+  "active": "3f5e34bd9787a410",
   "lastOpenFiles": [
-    "Finanzas.md",
     "Jauja.md",
+    "Finanzas.md",
     "Proyectos.md",
     "pro_Trabajos Donna y Moti.md",
     "pro_Compras Meli.md",
