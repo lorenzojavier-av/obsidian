@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jauja.md",
+                "file": "GTD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jauja.md",
+                "file": "GTD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,8 +198,9 @@
     "direction": "horizontal",
     "width": 312.4783630371094
   },
-  "active": "3f5e34bd9787a410",
+  "active": "266f95d8f729de78",
   "lastOpenFiles": [
+    "GTD.md",
     "Jauja.md",
     "Finanzas.md",
     "Proyectos.md",
@@ -208,7 +209,6 @@
     "MOC - Organización.md",
     "pro_Kambo.md",
     "pro_GTD.md",
-    "Recordatorios elementales.md",
-    "Cumpleaños.md"
+    "Recordatorios elementales.md"
   ]
 }
