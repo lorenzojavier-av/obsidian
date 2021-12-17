@@ -94,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "proyectos",
+                "query": "outlook",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -196,19 +196,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.4783630371094
+    "width": 312.4783630371094,
+    "collapsed": true
   },
   "active": "3f5e34bd9787a410",
   "lastOpenFiles": [
     "Jauja.md",
+    "Documentation/Trabajo/Oneforma/Untitled.md",
+    "Tr. Oneforma.md",
+    "Oneforma - Diario.md",
+    "Documentation/Diario/lunes-25-octubre-2021.md",
     "GTD.md",
     "Historia del Mundo.md",
     "Finanzas.md",
     "Proyectos.md",
-    "pro_Trabajos Donna y Moti.md",
-    "pro_Compras Meli.md",
-    "MOC - Organización.md",
-    "pro_Kambo.md",
-    "pro_GTD.md"
+    "pro_Trabajos Donna y Moti.md"
   ]
 }
