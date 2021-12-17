@@ -39,7 +39,7 @@
 	- Flaca, delgada, amable, lleva el cabello oscuro teñido de rubio. La veo pasar a veces, no sé qué hace.
 - Ema
 	- Mozo, cajero, barista. Se acaba de retirar. Me agrada. Ojalá nos crucemos de nuevo. Supuestamente se ocupará de la cafetería en un restaurante de Lago Puelo.
-- ¿Iris?
+- Aby
 	- Bajita, delgada, como una niña. Trabajó en la heladería y ahora en administración. Es muy amable, me cayó súper bien. Me pareció alegre.
 - Lucas
 	- Bachero. Amable. Me trata muy bien.
@@ -104,6 +104,10 @@ Originado en:
 				3. Mastercard
 				4. Visa
 				5. American Express
+				6. Visa Electron
+				7. Maestro
+				8. QR
+				9. Mercadopago
 			3. Tarjetas de débito
 				1. Mastercard
 				2. American Express
@@ -117,6 +121,8 @@ Originado en:
 - Apertura de la caja
 - Entrega de la caja al siguiente turno
 	 - Pasar mesas al turno que viene
+	 - Arqueo
+	 - 
 
 - Compras por el personal:
 	- Aplico descuento del %50, cobro y registro en la planilla como "%50" Requiere firma del comprador
@@ -158,7 +164,6 @@ Originado en:
 - Atención y disponibilidad
 - Llevar las empanadas en platos separados cuando sean para más de una persona
 - Llevar platos extra cuando se comparta algo, en lo posible del mismo tipo que el plato a compartir
-- 
 ## Productos
 [Tabla en Notion](https://www.notion.so/d6156b49be0e4362a639b070cb216904?v=d86b88b6921344169921f96553828a66)
 
@@ -173,7 +178,7 @@ Originado en:
 ### Tortas
 ### Platos principales
 ### Origen de los productos
-*(¿Qué se produce en Jauja? ¿Qué se compra hecho? ¿De dónde vienen las verduras? ¿Y las carnes? ¿Y el café?)*
+*(¿Qué se produce en Jauja? ¿Qué se compra hecho? ¿De dónde vienen las verduras? ¿Y las carnes? ¿Y el café? ¿Y el pescado?)*
 
 ## Diario
 - Dejé un CV y me llamaron para una entrevista. 
