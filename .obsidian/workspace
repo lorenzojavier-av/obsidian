@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proposal for 81000 palabras.md",
+                "file": "GTD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proposal for 81000 palabras.md",
+                "file": "GTD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,15 +208,15 @@
     "width": 312.4783630371094,
     "collapsed": true
   },
-  "active": "42c89e63042357fd",
+  "active": "266f95d8f729de78",
   "lastOpenFiles": [
+    "GTD.md",
     "Proposal for 81000 palabras.md",
     "Jauja.md",
     "Documentation/Trabajo/Oneforma/Untitled.md",
     "Tr. Oneforma.md",
     "Oneforma - Diario.md",
     "Documentation/Diario/lunes-25-octubre-2021.md",
-    "GTD.md",
     "Historia del Mundo.md",
     "Finanzas.md",
     "Proyectos.md"
