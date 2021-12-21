@@ -86,7 +86,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Taskwarrior.md",
+            "file": "home/lorenzo/MEGAsync/Baúl/Documentation/Diario/2021-W51.md",
             "mode": "source"
           }
         }
@@ -137,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5036334991455
+    "width": 245.5036334991455,
+    "collapsed": true
   },
   "right": {
     "id": "5cafcdf7e7db6d9f",
@@ -153,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Taskwarrior.md",
+                "file": "home/lorenzo/MEGAsync/Baúl/Documentation/Diario/2021-W51.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Taskwarrior.md",
+                "file": "home/lorenzo/MEGAsync/Baúl/Documentation/Diario/2021-W51.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,6 +222,8 @@
   },
   "active": "37768497a7452696",
   "lastOpenFiles": [
+    "home/lorenzo/MEGAsync/Baúl/Documentation/Diario/2021-W51.md",
+    "home/lorenzo/MEGAsync/Baúl/Documentation/Diario/2021-W48.md",
     "Taskwarrior.md",
     "GTD.md",
     "Proposal for 81000 palabras.md",
@@ -228,8 +231,6 @@
     "Documentation/Trabajo/Oneforma/Untitled.md",
     "Tr. Oneforma.md",
     "Oneforma - Diario.md",
-    "Documentation/Diario/lunes-25-octubre-2021.md",
-    "Historia del Mundo.md",
-    "Finanzas.md"
+    "Documentation/Diario/lunes-25-octubre-2021.md"
   ]
 }
