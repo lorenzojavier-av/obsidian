@@ -164,6 +164,11 @@
       "type": "file",
       "title": "Assesment",
       "path": "Telus/Assesment.md"
+    },
+    {
+      "type": "file",
+      "title": "Diario Kettlebell",
+      "path": "Diario Kettlebell.md"
     }
   ]
 }
