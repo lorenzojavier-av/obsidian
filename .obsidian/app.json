@@ -12,5 +12,7 @@
   "showLineNumber": true,
   "vimMode": false,
   "foldIndent": true,
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "legacyEditor": false,
+  "livePreview": true
 }
