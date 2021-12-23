@@ -98,6 +98,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "1444706663686da6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Taskwarrior.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -231,12 +243,12 @@
   "active": "a68c6ff7b2d46f46",
   "lastOpenFiles": [
     "home/lorenzo/MEGAsync/Baúl/Documentation/Diario/2021-W51.md",
+    "Taskwarrior.md",
     "Diario de alimentación.md",
     "Diario Kettlebell.md",
     "Páginas web guardadas/On Strenght/Simple Strength for Difficult Times An 8-Week Progressive Plan  StrongFirst.md",
     "GTD.md",
     "home/lorenzo/MEGAsync/Baúl/Documentation/Diario/2021-W48.md",
-    "Taskwarrior.md",
     "Proposal for 81000 palabras.md",
     "Jauja.md",
     "Documentation/Trabajo/Oneforma/Untitled.md"
