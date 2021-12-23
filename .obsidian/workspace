@@ -26,17 +26,6 @@
         }
       },
       {
-        "id": "42c89e63042357fd",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Proposal for 81000 palabras.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
         "id": "84ae7abaa0fc3caf",
         "type": "leaf",
         "state": {
@@ -75,7 +64,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "home/lorenzo/MEGAsync/Baúl/Documentation/Diario/2021-W51.md",
+            "file": "Páginas web guardadas/On Strenght/Simple Strength for Difficult Times An 8-Week Progressive Plan  StrongFirst.md",
             "mode": "source"
           }
         }
@@ -143,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home/lorenzo/MEGAsync/Baúl/Documentation/Diario/2021-W51.md",
+                "file": "Páginas web guardadas/On Strenght/Simple Strength for Difficult Times An 8-Week Progressive Plan  StrongFirst.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home/lorenzo/MEGAsync/Baúl/Documentation/Diario/2021-W51.md",
+                "file": "Páginas web guardadas/On Strenght/Simple Strength for Difficult Times An 8-Week Progressive Plan  StrongFirst.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,15 +200,15 @@
   },
   "active": "37768497a7452696",
   "lastOpenFiles": [
+    "Páginas web guardadas/On Strenght/Simple Strength for Difficult Times An 8-Week Progressive Plan  StrongFirst.md",
+    "GTD.md",
     "home/lorenzo/MEGAsync/Baúl/Documentation/Diario/2021-W51.md",
     "home/lorenzo/MEGAsync/Baúl/Documentation/Diario/2021-W48.md",
     "Taskwarrior.md",
-    "GTD.md",
     "Proposal for 81000 palabras.md",
     "Jauja.md",
     "Documentation/Trabajo/Oneforma/Untitled.md",
     "Tr. Oneforma.md",
-    "Oneforma - Diario.md",
-    "Documentation/Diario/lunes-25-octubre-2021.md"
+    "Oneforma - Diario.md"
   ]
 }
