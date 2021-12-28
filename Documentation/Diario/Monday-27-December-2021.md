@@ -1,3 +1,2 @@
 # Lunes 27 de diciembre, 
-## Arqueo
-Billetera: 
+Necesito saber cosas. Para traba

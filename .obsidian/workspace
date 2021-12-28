@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home/lorenzo/MEGAsync/Baúl/Documentation/Diario/2021-W52.md",
+                "file": "Documentation/Diario/Monday-27-December-2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home/lorenzo/MEGAsync/Baúl/Documentation/Diario/2021-W52.md",
+                "file": "Documentation/Diario/Monday-27-December-2021.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -199,10 +199,10 @@
     "direction": "horizontal",
     "width": 312.4783630371094
   },
-  "active": "02569dfd43c997e7",
+  "active": "3971dfc6c92f1f8c",
   "lastOpenFiles": [
-    "home/lorenzo/MEGAsync/Baúl/Documentation/Diario/2021-W52.md",
     "Documentation/Diario/Monday-27-December-2021.md",
+    "home/lorenzo/MEGAsync/Baúl/Documentation/Diario/2021-W52.md",
     "Finanzas.md",
     "Taskwarrior.md",
     "Diario Kettlebell.md",
