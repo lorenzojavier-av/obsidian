@@ -28,36 +28,12 @@
         }
       },
       {
-        "id": "ba3a399c70c99ff5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Historia del Mundo.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "266f95d8f729de78",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "GTD.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "37768497a7452696",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Páginas web guardadas/On Strenght/Simple Strength for Difficult Times An 8-Week Progressive Plan  StrongFirst.md",
             "mode": "source",
             "source": false
           }
@@ -76,24 +52,24 @@
         }
       },
       {
-        "id": "a68c6ff7b2d46f46",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "home/lorenzo/MEGAsync/Baúl/Documentation/Diario/2021-W51.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "1444706663686da6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Taskwarrior.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "02569dfd43c997e7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "home/lorenzo/MEGAsync/Baúl/Documentation/Diario/2021-W52.md",
             "mode": "source",
             "source": false
           }
@@ -162,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Páginas web guardadas/On Strenght/Simple Strength for Difficult Times An 8-Week Progressive Plan  StrongFirst.md",
+                "file": "home/lorenzo/MEGAsync/Baúl/Documentation/Diario/2021-W52.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,33 +166,17 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Páginas web guardadas/On Strenght/Simple Strength for Difficult Times An 8-Week Progressive Plan  StrongFirst.md",
+                "file": "home/lorenzo/MEGAsync/Baúl/Documentation/Diario/2021-W52.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "54cab595d76d972e",
+            "id": "ffb417fc84d0220f",
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "3866595ccd6ea9fd",
-            "type": "leaf",
-            "state": {
-              "type": "online.larslockefeer.obsidian-plugin-todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "0af4a8b8a4a7fdbd",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -225,20 +185,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.4783630371094,
-    "collapsed": true
+    "width": 312.4783630371094
   },
-  "active": "37768497a7452696",
+  "active": "02569dfd43c997e7",
   "lastOpenFiles": [
-    "Páginas web guardadas/On Strenght/Simple Strength for Difficult Times An 8-Week Progressive Plan  StrongFirst.md",
-    "Historia del Mundo.md",
-    "Finanzas.md",
-    "home/lorenzo/MEGAsync/Baúl/Documentation/Diario/2021-W51.md",
+    "home/lorenzo/MEGAsync/Baúl/Documentation/Diario/2021-W52.md",
     "Taskwarrior.md",
-    "Diario de alimentación.md",
     "Diario Kettlebell.md",
+    "home/lorenzo/MEGAsync/Baúl/Documentation/Diario/2021-W51.md",
+    "Finanzas.md",
+    "Historia del Mundo.md",
+    "Páginas web guardadas/On Strenght/Simple Strength for Difficult Times An 8-Week Progressive Plan  StrongFirst.md",
+    "Diario de alimentación.md",
     "GTD.md",
-    "home/lorenzo/MEGAsync/Baúl/Documentation/Diario/2021-W48.md",
-    "Proposal for 81000 palabras.md"
+    "home/lorenzo/MEGAsync/Baúl/Documentation/Diario/2021-W48.md"
   ]
 }
