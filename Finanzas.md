@@ -1,12 +1,12 @@
 # Finanzas
 
-# Dinero
-- Deudas: **ARS 25.000** a Martu, a pagar el o antes del 10 de enero del 2022.
+## Dinero
+### Deudas:
+- **ARS 25.000** a Martu, a pagar el o antes del 10 de enero del 2022
 ## Proyecciones y revisiones semanales
 ### Semana 50
-- Proyecto ganar 6000 pesos en propinas.
-- Proyecto gastar 2000 pesos en general (descontando el pago del alquiler que ya está programado).
-- 
+- Proyecto ganar 6000 pesos en propinas
+- Proyecto gastar 2000 pesos en general (descontando el pago del alquiler que ya está programado)
 
 ## Visión para la temporada
 ### Baja resolución
@@ -29,9 +29,7 @@
 - Proyecto ganar 20.000 pesos en propinas durante el mes
 
 
----
 
-- [[Impuestos]]
 
 ---
-Related: [[Dinero - Diario]], [[Gnucash]]
+Related: [[Dinero - Diario]], [[Gnucash]], [[Impuestos]]
