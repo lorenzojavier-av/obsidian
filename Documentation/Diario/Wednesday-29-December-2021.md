@@ -1,0 +1,2 @@
+# Miércoles 29 de diciembre, 2021
+Necesito hablar de unas cosas. Organización es una, diría que la principal. Quiero nombrar las cosas que hago cada día y las que necesito hacer a menudo (como lavar la ropa), listarlas y ver cómo puedo hacerlas cuando lo necesito sin esfuerzo.

@@ -81,7 +81,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Documentation/Diario/Monday-27-December-2021.md",
+            "file": "Documentation/Diario/Tuesday-28-December-2021.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "e7cf3adbcd5a46e1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Documentation/Diario/Wednesday-29-December-2021.md",
             "mode": "source",
             "source": false
           }
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentation/Diario/Monday-27-December-2021.md",
+                "file": "Documentation/Diario/Wednesday-29-December-2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documentation/Diario/Monday-27-December-2021.md",
+                "file": "Documentation/Diario/Wednesday-29-December-2021.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -197,19 +209,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.4783630371094
+    "width": 312.4783630371094,
+    "collapsed": true
   },
-  "active": "3971dfc6c92f1f8c",
+  "active": "e7cf3adbcd5a46e1",
   "lastOpenFiles": [
-    "Documentation/Diario/Monday-27-December-2021.md",
+    "Documentation/Diario/Wednesday-29-December-2021.md",
     "home/lorenzo/MEGAsync/Baúl/Documentation/Diario/2021-W52.md",
+    "Documentation/Diario/Tuesday-28-December-2021.md",
+    "Documentation/Diario/Monday-27-December-2021.md",
+    "GTD.md",
     "Finanzas.md",
     "Taskwarrior.md",
     "Diario Kettlebell.md",
     "home/lorenzo/MEGAsync/Baúl/Documentation/Diario/2021-W51.md",
-    "Historia del Mundo.md",
-    "Páginas web guardadas/On Strenght/Simple Strength for Difficult Times An 8-Week Progressive Plan  StrongFirst.md",
-    "Diario de alimentación.md",
-    "GTD.md"
+    "Historia del Mundo.md"
   ]
 }
