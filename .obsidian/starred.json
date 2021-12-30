@@ -169,6 +169,11 @@
       "type": "file",
       "title": "Diario Kettlebell",
       "path": "Diario Kettlebell.md"
+    },
+    {
+      "type": "file",
+      "title": "Compras en cola",
+      "path": "Compras en cola.md"
     }
   ]
 }
