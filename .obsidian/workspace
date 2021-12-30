@@ -129,19 +129,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diario de práctica - monk isometrics.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "303c46b4556c629e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "respiración 8-8.md",
+            "file": "Documentation/Diario/Thursday-30-December-2021.md",
             "mode": "source",
             "source": false
           }
@@ -210,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "respiración 8-8.md",
+                "file": "Documentation/Diario/Thursday-30-December-2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "respiración 8-8.md",
+                "file": "Documentation/Diario/Thursday-30-December-2021.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -260,12 +248,12 @@
     "width": 312.4783630371094,
     "collapsed": true
   },
-  "active": "303c46b4556c629e",
+  "active": "6e22170e8cf9ca2c",
   "lastOpenFiles": [
-    "respiración 8-8.md",
-    "Diario de práctica - monk isometrics.md",
-    "Compras en cola.md",
     "Documentation/Diario/Thursday-30-December-2021.md",
+    "Diario de práctica - monk isometrics.md",
+    "respiración 8-8.md",
+    "Compras en cola.md",
     "Documentation/Diario/Wednesday-29-December-2021.md",
     "home/lorenzo/MEGAsync/Baúl/Documentation/Diario/2021-W52.md",
     "Documentation/Diario/Tuesday-28-December-2021.md",
