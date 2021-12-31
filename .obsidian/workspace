@@ -52,18 +52,6 @@
         }
       },
       {
-        "id": "aeb74c43b3aa49e2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "MOC - Organización.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "1444706663686da6",
         "type": "leaf",
         "state": {
@@ -199,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC - Organización.md",
+                "file": "pro_GTD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOC - Organización.md",
+                "file": "pro_GTD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -249,17 +237,17 @@
     "width": 312.4783630371094,
     "collapsed": true
   },
-  "active": "aeb74c43b3aa49e2",
+  "active": "02569dfd43c997e7",
   "lastOpenFiles": [
-    "MOC - Organización.md",
-    "Recordatorios elementales.md",
+    "pro_GTD.md",
     "Diario Kettlebell.md",
+    "MOC - Organización.md",
+    "pajarito.md",
+    "Recordatorios elementales.md",
     "Plan 2021.md",
     "Documentation/Diario/Thursday-30-December-2021.md",
-    "pro_GTD.md",
     "GTD.md",
     "Proyectos.md",
-    "home/lorenzo/MEGAsync/Baúl/Documentation/Diario/2021-W52.md",
-    "pro_Kambo.md"
+    "home/lorenzo/MEGAsync/Baúl/Documentation/Diario/2021-W52.md"
   ]
 }
