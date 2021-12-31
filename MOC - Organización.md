@@ -3,6 +3,7 @@
 
 ## Inspiración
 - [[Citas]]
+- [[Plan 2021]]
 - [[Recordatorios elementales]]
 - [[Knowing Myself]]
 - [[Notas sin procesar]]
