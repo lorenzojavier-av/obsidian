@@ -165,13 +165,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 245.5036334991455,
-    "collapsed": true
+    "width": 245.5036334991455
   },
   "right": {
     "id": "5cafcdf7e7db6d9f",
@@ -187,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pro_GTD.md",
+                "file": "Taskwarrior.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pro_GTD.md",
+                "file": "Taskwarrior.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -237,17 +235,17 @@
     "width": 312.4783630371094,
     "collapsed": true
   },
-  "active": "02569dfd43c997e7",
+  "active": "1444706663686da6",
   "lastOpenFiles": [
+    "Taskwarrior.md",
     "pro_GTD.md",
+    "Untitled 8.md",
     "Diario Kettlebell.md",
     "MOC - Organización.md",
     "pajarito.md",
     "Recordatorios elementales.md",
     "Plan 2021.md",
     "Documentation/Diario/Thursday-30-December-2021.md",
-    "GTD.md",
-    "Proyectos.md",
-    "home/lorenzo/MEGAsync/Baúl/Documentation/Diario/2021-W52.md"
+    "GTD.md"
   ]
 }
