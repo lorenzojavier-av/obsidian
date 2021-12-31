@@ -22,11 +22,6 @@
     },
     {
       "type": "file",
-      "title": "Terapia",
-      "path": "Documentation/Salud mental/Terapia.md"
-    },
-    {
-      "type": "file",
       "title": "Mi Vida en 7 Épocas",
       "path": "Documentation/Salud mental/Mi Vida en 7 Épocas.md"
     },
@@ -174,6 +169,11 @@
       "type": "file",
       "title": "Compras en cola",
       "path": "Compras en cola.md"
+    },
+    {
+      "type": "file",
+      "title": "Terapia",
+      "path": "Documentation/Salud mental/Terapia.md"
     }
   ]
 }
