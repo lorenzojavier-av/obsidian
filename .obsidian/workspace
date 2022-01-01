@@ -158,18 +158,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "fdf241dabf7d6670",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Sistema de notas de estudio.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -218,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5036334991455
+    "width": 245.5036334991455,
+    "collapsed": true
   },
   "right": {
     "id": "5cafcdf7e7db6d9f",
