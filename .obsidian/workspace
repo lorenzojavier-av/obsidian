@@ -64,18 +64,6 @@
         }
       },
       {
-        "id": "02569dfd43c997e7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "pro_GTD.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "31b97572bdee2504",
         "type": "leaf",
         "state": {
@@ -169,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5036334991455
+    "width": 245.5036334991455,
+    "collapsed": true
   },
   "right": {
     "id": "5cafcdf7e7db6d9f",
@@ -185,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Taskwarrior.md",
+                "file": "GTD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Taskwarrior.md",
+                "file": "GTD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -235,8 +224,9 @@
     "width": 312.4783630371094,
     "collapsed": true
   },
-  "active": "1444706663686da6",
+  "active": "266f95d8f729de78",
   "lastOpenFiles": [
+    "GTD.md",
     "Taskwarrior.md",
     "pro_GTD.md",
     "Untitled 8.md",
@@ -245,7 +235,6 @@
     "pajarito.md",
     "Recordatorios elementales.md",
     "Plan 2021.md",
-    "Documentation/Diario/Thursday-30-December-2021.md",
-    "GTD.md"
+    "Documentation/Diario/Thursday-30-December-2021.md"
   ]
 }
