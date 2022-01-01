@@ -1,0 +1,2 @@
+# Sistema de notas de estudio
+Tomo notas en cuadernos cuadriculados A4. Cada tema es tratado en una página completa, nunca trato mas de uno en la misma página, así puedo ir compilando las notas en grupos según su tema. 

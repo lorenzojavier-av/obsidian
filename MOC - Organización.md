@@ -3,7 +3,8 @@
 
 ## Inspiración
 - [[Citas]]
-- [[Plan 2021]]
+- [[Sistema de notas de estudio]]
+- [[Plan 2022-2025]]
 - [[Recordatorios elementales]]
 - [[Knowing Myself]]
 - [[Notas sin procesar]]
