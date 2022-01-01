@@ -4,7 +4,8 @@
 ## Inspiración
 - [[Citas]]
 - [[Sistema de notas de estudio]]
-- [[Plan 2022-2025]]
+- [[Plan 2022-2024]]
+- [[Plan 2024-2027]]
 - [[Recordatorios elementales]]
 - [[Knowing Myself]]
 - [[Notas sin procesar]]

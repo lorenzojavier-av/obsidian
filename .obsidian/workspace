@@ -69,7 +69,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plan 2022-2025.md",
+            "file": "Plan 2022-2024.md",
             "mode": "source",
             "source": false
           }
@@ -136,12 +136,24 @@
         }
       },
       {
+        "id": "8350639ecab4122e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Plan 2024-2027.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
         "id": "9a6dec330313876f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plan 2022-2025.md",
+            "file": "Plan 2022-2024.md",
             "mode": "source",
             "source": false
           }
@@ -202,12 +214,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 245.5036334991455,
-    "collapsed": true
+    "width": 245.5036334991455
   },
   "right": {
     "id": "5cafcdf7e7db6d9f",
@@ -223,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GTD.md",
+                "file": "Plan 2022-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GTD.md",
+                "file": "Plan 2022-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -273,17 +284,17 @@
     "width": 312.4783630371094,
     "collapsed": true
   },
-  "active": "266f95d8f729de78",
+  "active": "9a6dec330313876f",
   "lastOpenFiles": [
-    "GTD.md",
-    "Plan 2022-2025.md",
+    "Plan 2022-2024.md",
     "MOC - Organización.md",
+    "Plan 2024-2027.md",
+    "GTD.md",
     "Sistema de notas de estudio.md",
     "Documentation/Diario/sábado-01-enero-2022.md",
     "Documentation/Diario/viernes-31-diciembre-2021.md",
     "Documentation/Diario/martes-28-diciembre-2021.md",
     "Documentation/Diario/miércoles-29-diciembre-2021.md",
-    "Documentation/Diario/jueves-30-diciembre-2021.md",
-    "Taskwarrior.md"
+    "Documentation/Diario/jueves-30-diciembre-2021.md"
   ]
 }

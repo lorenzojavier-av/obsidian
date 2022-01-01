@@ -10,14 +10,23 @@
 Book, Brainstorm, Buy, Call, Copy, Discuss, Draft, Edit, Email, Fill out, Find, Gather, Load, Outline, Print, Purge, Read, Record, Register, Research, Review, Schedule, Update (single-step), Verify, Wait For, Write
 ## Horizons of Focus
 ### Horizon 5 - Purpose and Principles
-What is the work you are here to do on the planet, with your life?
+*What is the work you are here to do on the planet, with your life?*
 
 Spread light, spread understanding, work towards improving and spreading accesible technologies for housing and clothing and food sourcing and healing
 
 ### Horizon 4 - Three-to-five-year vision
-What is your vision of success three to five years from now?
+*What is your vision of success three to five years from now?
 Where is your Company going to be?
-What is your lifestyle (family life) going to be like?
+What is your lifestyle (family life) going to be like?*
+
+Mi visión de éxito de tres a cuatro años desde ahora...
+
+- Trabajo como programador, lo disfruto mucho.
+- Vivo en mi yurta, en la tierra de Nan.
+- Tengo ahorros crecientes y bien distribuídos.
+- Poseo algunas acciones.
+- Me contacto significativamente con amigos y familiares al menos una vez al año, por carta o audio o llamada o lo que funcione para cada caso.
+- Domino el método GTD.
 
 ### Horizon 3 - One-to-two-year goals and objectives
 What are your goals one to two years from now? Personal and Professional.
