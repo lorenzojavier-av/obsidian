@@ -223,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan 2022-2025.md",
+                "file": "GTD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan 2022-2025.md",
+                "file": "GTD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -273,8 +273,9 @@
     "width": 312.4783630371094,
     "collapsed": true
   },
-  "active": "9a6dec330313876f",
+  "active": "266f95d8f729de78",
   "lastOpenFiles": [
+    "GTD.md",
     "Plan 2022-2025.md",
     "MOC - Organización.md",
     "Sistema de notas de estudio.md",
@@ -283,7 +284,6 @@
     "Documentation/Diario/martes-28-diciembre-2021.md",
     "Documentation/Diario/miércoles-29-diciembre-2021.md",
     "Documentation/Diario/jueves-30-diciembre-2021.md",
-    "GTD.md",
     "Taskwarrior.md"
   ]
 }
