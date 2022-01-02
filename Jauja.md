@@ -1,3 +1,6 @@
+## Salario
+- [[Acuerdo Salarial Uthgra]]
+
 
 ## Machete
 - Mantener la pava caliente por si piden agua para mate o té, para no gastar la de la cafetera que tarda en recuperarse.

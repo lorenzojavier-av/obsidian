@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Jauja.md",
+            "file": "Acuerdo Salarial Uthgra.md",
             "mode": "source",
             "source": false
           }
@@ -235,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aprender Programación.md",
+                "file": "Acuerdo Salarial Uthgra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aprender Programación.md",
+                "file": "Acuerdo Salarial Uthgra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -285,8 +285,10 @@
     "width": 312.4783630371094,
     "collapsed": true
   },
-  "active": "0036da6fc769638f",
+  "active": "3f5e34bd9787a410",
   "lastOpenFiles": [
+    "Acuerdo Salarial Uthgra.md",
+    "Jauja.md",
     "Aprender Programación.md",
     "MOC - Organización.md",
     "Plan 2022-2024.md",
@@ -294,8 +296,6 @@
     "GTD.md",
     "Sistema de notas de estudio.md",
     "Documentation/Diario/sábado-01-enero-2022.md",
-    "Documentation/Diario/viernes-31-diciembre-2021.md",
-    "Documentation/Diario/martes-28-diciembre-2021.md",
-    "Documentation/Diario/miércoles-29-diciembre-2021.md"
+    "Documentation/Diario/viernes-31-diciembre-2021.md"
   ]
 }
