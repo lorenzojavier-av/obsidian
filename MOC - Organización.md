@@ -1,11 +1,15 @@
 # MOC - Organización
 ¿Qué quiero registrar cada día? ¿Cada semana? ¿Cada mes? ¿Cada año?
 
-## Inspiración
+## Proyectos
+- [[Aprender Programación]]
+
+## Otros
 - [[Citas]]
 - [[Sistema de notas de estudio]]
 - [[Plan 2022-2024]]
 - [[Plan 2024-2027]]
+
 - [[Recordatorios elementales]]
 - [[Knowing Myself]]
 - [[Notas sin procesar]]
