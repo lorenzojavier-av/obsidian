@@ -124,6 +124,18 @@
         }
       },
       {
+        "id": "39e96d4f9e492d4d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Documentation/Diario/domingo-02-enero-2022.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
         "id": "b7932a9164348da3",
         "type": "leaf",
         "state": {
@@ -235,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Acuerdo Salarial Uthgra.md",
+                "file": "MOC - Organización.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Acuerdo Salarial Uthgra.md",
+                "file": "MOC - Organización.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -285,17 +297,17 @@
     "width": 312.4783630371094,
     "collapsed": true
   },
-  "active": "3f5e34bd9787a410",
+  "active": "b7932a9164348da3",
   "lastOpenFiles": [
+    "MOC - Organización.md",
+    "Documentation/Diario/domingo-02-enero-2022.md",
+    "Documentation/Diario/sábado-01-enero-2022.md",
+    "Documentation/Diario/viernes-31-diciembre-2021.md",
+    "Documentation/Diario/miércoles-29-diciembre-2021.md",
+    "Documentation/Diario/martes-28-diciembre-2021.md",
     "Acuerdo Salarial Uthgra.md",
     "Jauja.md",
     "Aprender Programación.md",
-    "MOC - Organización.md",
-    "Plan 2022-2024.md",
-    "Plan 2024-2027.md",
-    "GTD.md",
-    "Sistema de notas de estudio.md",
-    "Documentation/Diario/sábado-01-enero-2022.md",
-    "Documentation/Diario/viernes-31-diciembre-2021.md"
+    "Plan 2022-2024.md"
   ]
 }
