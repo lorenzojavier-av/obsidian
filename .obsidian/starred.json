@@ -169,6 +169,11 @@
       "type": "file",
       "title": "Terapia",
       "path": "Documentation/Salud mental/Terapia.md"
+    },
+    {
+      "type": "file",
+      "title": "WHM",
+      "path": "WHM.md"
     }
   ]
 }
