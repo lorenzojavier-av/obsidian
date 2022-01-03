@@ -1,4 +1,8 @@
 # Toggl
+- Si no puedo registrarlo cada vez, no quiero registrarlo.
+- Registro cosas en las que realmente voy a enfocarme, así sean tan solo dos minutos.
+
+## Legacy
 Registra cada minuto de mis días. No es súper preciso, hay muchos momentos en que hago más de una cosa, como escuchar un video mientras cocino, esas cosas no estan especificadas. La categoría de imprevistos es para todo lo que no sé cómo categorizar por ahora, especialmente ratos de distracción y multitasking.
 
 Me da una idea aproximada de qué hago con el día. Es tremendamente útil.
@@ -21,7 +25,7 @@ Me da una idea aproximada de qué hago con el día. Es tremendamente útil.
 - [[Yoga]]
 
 
-## New set:
+### New set:
 - [[1 - Sleep]]
 - [[Barefoot Running]]
 - [[EGB]]
