@@ -76,54 +76,6 @@
         }
       },
       {
-        "id": "3971dfc6c92f1f8c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Documentation/Diario/martes-28-diciembre-2021.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "e7cf3adbcd5a46e1",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Documentation/Diario/miércoles-29-diciembre-2021.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "6e22170e8cf9ca2c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Documentation/Diario/viernes-31-diciembre-2021.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "a33dd7fc32f9678c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Documentation/Diario/sábado-01-enero-2022.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "39e96d4f9e492d4d",
         "type": "leaf",
         "state": {
@@ -384,6 +336,7 @@
   "active": "e61ed653a00500eb",
   "lastOpenFiles": [
     "¿A quiénes les quiero escribir o hablar por fin de año?.md",
+    "Documentation/Diario/viernes-31-diciembre-2021.md",
     "MOC - Organización.md",
     "Monefy.md",
     "Documentation/Diario/lunes-03-enero-2022.md",
@@ -391,7 +344,6 @@
     "Plan 2024-2027.md",
     "Compras en cola.md",
     "Life in the old days.md",
-    "Documentation/Diario/domingo-02-enero-2022.md",
-    "Cacería de libros.md"
+    "Documentation/Diario/domingo-02-enero-2022.md"
   ]
 }
