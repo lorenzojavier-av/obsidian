@@ -5,7 +5,7 @@
 - [[Aprender suficiente programación para aplicar a un puesto trainee en Argentina]]
 - [[¿A quiénes les quiero escribir o hablar por fin de año?]]
 - [[Cobrar mi primer sueldo en Jauja]]
-
+- [[Cacería de libros]]
 ## Otros
 - [[Citas]]
 - [[Sistema de notas de estudio]]

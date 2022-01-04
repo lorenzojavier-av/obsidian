@@ -165,7 +165,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled 9.md",
+            "file": "Life in the old days.md",
             "mode": "source",
             "source": false
           }
@@ -177,7 +177,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MOC - Organización.md",
+            "file": "Cacería de libros.md",
             "mode": "source",
             "source": false
           }
@@ -331,7 +331,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan 2022-2024.md",
+                "file": "Documentation/Diario/lunes-03-enero-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -359,7 +359,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan 2022-2024.md",
+                "file": "Documentation/Diario/lunes-03-enero-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -381,17 +381,17 @@
     "width": 312.4783630371094,
     "collapsed": true
   },
-  "active": "9a6dec330313876f",
+  "active": "4d6ce87e642a1f4e",
   "lastOpenFiles": [
-    "Plan 2022-2024.md",
-    "Compras en cola.md",
     "Documentation/Diario/lunes-03-enero-2022.md",
+    "Plan 2022-2024.md",
+    "Plan 2024-2027.md",
+    "Compras en cola.md",
+    "Life in the old days.md",
     "Documentation/Diario/domingo-02-enero-2022.md",
-    "Aprender suficiente programación para aplicar a un puesto trainee en Argentina.md",
-    "¿A quiénes les quiero escribir o hablar por fin de año?.md",
-    "Cobrar mi primer sueldo en Jauja.md",
+    "Cacería de libros.md",
     "MOC - Organización.md",
-    "Jauja.md",
-    "Trabajo.md"
+    "Aprender suficiente programación para aplicar a un puesto trainee en Argentina.md",
+    "¿A quiénes les quiero escribir o hablar por fin de año?.md"
   ]
 }
