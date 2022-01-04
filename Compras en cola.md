@@ -4,3 +4,4 @@
 - Medias
 - Secador de cabello
 - Tuppers
+- **Batería thinkpad t430 70++** Voy a esperar a que alguien venga de Estados Unidos y me traiga una.
