@@ -331,7 +331,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentation/Diario/lunes-03-enero-2022.md",
+                "file": "¿A quiénes les quiero escribir o hablar por fin de año?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -359,7 +359,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documentation/Diario/lunes-03-enero-2022.md",
+                "file": "¿A quiénes les quiero escribir o hablar por fin de año?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -381,8 +381,9 @@
     "width": 312.4783630371094,
     "collapsed": true
   },
-  "active": "4d6ce87e642a1f4e",
+  "active": "e61ed653a00500eb",
   "lastOpenFiles": [
+    "¿A quiénes les quiero escribir o hablar por fin de año?.md",
     "Documentation/Diario/lunes-03-enero-2022.md",
     "Plan 2022-2024.md",
     "Plan 2024-2027.md",
@@ -391,7 +392,6 @@
     "Documentation/Diario/domingo-02-enero-2022.md",
     "Cacería de libros.md",
     "MOC - Organización.md",
-    "Aprender suficiente programación para aplicar a un puesto trainee en Argentina.md",
-    "¿A quiénes les quiero escribir o hablar por fin de año?.md"
+    "Aprender suficiente programación para aplicar a un puesto trainee en Argentina.md"
   ]
 }
