@@ -148,6 +148,18 @@
         }
       },
       {
+        "id": "ec68b93779a0ab33",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Untitled 9.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
         "id": "b7932a9164348da3",
         "type": "leaf",
         "state": {
@@ -237,8 +249,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -259,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentation/Diario/lunes-03-enero-2022.md",
+                "file": "Plan 2022-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +298,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documentation/Diario/lunes-03-enero-2022.md",
+                "file": "Plan 2022-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -309,17 +320,17 @@
     "width": 312.4783630371094,
     "collapsed": true
   },
-  "active": "4d6ce87e642a1f4e",
+  "active": "31b97572bdee2504",
   "lastOpenFiles": [
+    "Plan 2022-2024.md",
+    "Taskwarrior.md",
+    "Diario Kettlebell.md",
+    "Untitled 9.md",
+    "Documentation/Diario/viernes-31-diciembre-2021.md",
     "Documentation/Diario/lunes-03-enero-2022.md",
     "WHM.md",
     "Toggl.md",
-    "Untitled 9.md",
     "Documentation/Diario/domingo-02-enero-2022.md",
-    "Plan 2022-2024.md",
-    "Herramientas.md",
-    "Compras en cola.md",
-    "Aprender Programación.md",
-    "MOC - Organización.md"
+    "Herramientas.md"
   ]
 }
