@@ -310,7 +310,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -384,14 +384,14 @@
   "active": "e61ed653a00500eb",
   "lastOpenFiles": [
     "¿A quiénes les quiero escribir o hablar por fin de año?.md",
+    "MOC - Organización.md",
+    "Monefy.md",
     "Documentation/Diario/lunes-03-enero-2022.md",
     "Plan 2022-2024.md",
     "Plan 2024-2027.md",
     "Compras en cola.md",
     "Life in the old days.md",
     "Documentation/Diario/domingo-02-enero-2022.md",
-    "Cacería de libros.md",
-    "MOC - Organización.md",
-    "Aprender suficiente programación para aplicar a un puesto trainee en Argentina.md"
+    "Cacería de libros.md"
   ]
 }

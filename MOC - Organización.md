@@ -6,8 +6,11 @@
 - [[¿A quiénes les quiero escribir o hablar por fin de año?]]
 - [[Cobrar mi primer sueldo en Jauja]]
 - [[Cacería de libros]]
+
+
 ## Otros
 - [[Citas]]
+- [[Monefy]]
 - [[Sistema de notas de estudio]]
 - [[Plan 2022-2024]]
 - [[Plan 2024-2027]]
