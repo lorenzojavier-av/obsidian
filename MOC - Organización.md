@@ -1,12 +1,14 @@
 # MOC - Organización
 ¿Qué quiero registrar cada día? ¿Cada semana? ¿Cada mes? ¿Cada año?
 
+## Áreas de Foco
 ## Proyectos
 - [[Aprender suficiente programación para aplicar a un puesto trainee en Argentina]]
 - [[¿A quiénes les quiero escribir o hablar por fin de año?]]
 - [[Cobrar mi primer sueldo en Jauja]]
-- [[Cacería de libros]]
 
+##  Checklists
+- [[Cacería de libros]]
 
 ## Otros
 - [[Citas]]
@@ -29,7 +31,6 @@
 - [[Matemática]]
 - [[Mis maestros, y qué me inspira cada uno]]
 - [[Plan FINES 2022]]
-- [[Proyectos]]
 - [[Procesamiento de información]]
 - [[Programación]]
 - [[Recomendaciones]]

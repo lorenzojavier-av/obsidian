@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Acuerdo Salarial Uthgra.md",
+            "file": "MOC - Organización.md",
             "mode": "source",
             "source": false
           }
@@ -76,108 +76,12 @@
         }
       },
       {
-        "id": "39e96d4f9e492d4d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Documentation/Diario/domingo-02-enero-2022.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "4d6ce87e642a1f4e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Documentation/Diario/lunes-03-enero-2022.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "d742e8d2cf6c9522",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Compras en cola.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "ec68b93779a0ab33",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Life in the old days.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "b7932a9164348da3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Cacería de libros.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "d5b856e12393045f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Cobrar mi primer sueldo en Jauja.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "c791d9ca1338e82a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Jauja.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "e4fb392b3ea5ccbb",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Aprender suficiente programación para aplicar a un puesto trainee en Argentina.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "e61ed653a00500eb",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "¿A quiénes les quiero escribir o hablar por fin de año?.md",
             "mode": "source",
             "source": false
           }
@@ -283,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "¿A quiénes les quiero escribir o hablar por fin de año?.md",
+                "file": "MOC - Organización.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "¿A quiénes les quiero escribir o hablar por fin de año?.md",
+                "file": "MOC - Organización.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -325,25 +229,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 312.4783630371094,
     "collapsed": true
   },
-  "active": "e61ed653a00500eb",
+  "active": "3f5e34bd9787a410",
   "lastOpenFiles": [
-    "¿A quiénes les quiero escribir o hablar por fin de año?.md",
-    "Documentation/Diario/viernes-31-diciembre-2021.md",
     "MOC - Organización.md",
+    "Acuerdo Salarial Uthgra.md",
+    "Proyectos.md",
+    "¿A quiénes les quiero escribir o hablar por fin de año?.md",
+    "pro_Trabajos Donna y Moti.md",
+    "Cacería de libros.md",
+    "Cobrar mi primer sueldo en Jauja.md",
+    "Documentation/Diario/viernes-31-diciembre-2021.md",
     "Monefy.md",
-    "Documentation/Diario/lunes-03-enero-2022.md",
-    "Plan 2022-2024.md",
-    "Plan 2024-2027.md",
-    "Compras en cola.md",
-    "Life in the old days.md",
-    "Documentation/Diario/domingo-02-enero-2022.md"
+    "Documentation/Diario/lunes-03-enero-2022.md"
   ]
 }
