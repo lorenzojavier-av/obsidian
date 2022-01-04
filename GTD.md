@@ -1,4 +1,6 @@
 # GTD
+Useful triggers:
+- "What does 'done' look like?" If you can't answer that, it likely isn't a project.
 ## Essential steps
 ### 1. Capture
 ### 2. Clarify
