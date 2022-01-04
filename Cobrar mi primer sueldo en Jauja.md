@@ -1,0 +1,1 @@
+Creo que no tengo muchas razones para desconfiar de si me pagarán correctamente o no. Para empezar, no definí a qué me refiero con correctamente. Sé que cuando hablé con Camilo e Isabel la primera vez
