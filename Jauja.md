@@ -2,6 +2,7 @@
 **Objetivo**
 
 Trabajar honorablemente, ofreciendo lo mejor de mí, de manera que mi servicio sea apreciado y yo aprenda y me nutra todo lo que pueda, y que al finalizar la relación no haya más que buenos deseos por ambas partes.
+
 ## Salario
 - [[Acuerdo Salarial Uthgra]]
 
@@ -196,7 +197,9 @@ Originado en:
 - **Martes 24 de noviembre:** Tuve la entrevista. 
 - **Jueves 25 de noviembre:** Tuve la prueba.
 - **Lunes 29 de noviembre:** Me llamaron para confirmar que me aceptaban.
-1. **Jueves 2 de diciembre:** Empecé a trabajar. 
+1. **Jueves 2 de diciembre:** Empecé a trabajar.
+2. Viernes 3 de diciembre:
+3. Sábado 4 de diciembre: 
 2.  **Lunes 6 de diciembre:** Estuve en la caja, asistido y guiado por Ema. Fué muy bueno, es un hombre impetuoso, de carácter explosivo y a la vez bonachón, jajaja. Me recuerda a mi tío. Hice dos arqueos, el primero muy bien, el segundo con una diferencia de unos 2000 y pico. Había ingresado mal unos cobros (como tarjetas uno en efectivo, y lo opuesto también), nos tomó un rato encontrar el error.
 3. **Martes 7 de diciembre:** Ema me dijo que vengo muy bien con las comandas, que están bien claras. Fué re lindo :)
 4.  **Miércoles 8 de diciembre:** Presencié un conflicto entre Fede e Inés. Ella le dijo algo en público que era una especie de reclamo. Parecía genuino, sin embargo Fede respondió irritado y sin paciencia, como un dictador. Fué feo. Los quiero a ambos. Pienso que Inés tiene muchas cosas de las que quejarse, quizá por eso tiene poco compromiso. Fede parece tener mucha responsabilidad, y estar muy cansado. Sin duda recibe una gran parte de las quejas. Creo que parte de su reacción tiene que ver con la manera en que Inés lo enfrentó, y en que lo hizo frente a otros miembros del equipo y a la vista de la clientela, así que él se mostró pétreo, como destacando su posición de autoridad. ¿Podré ser puente entre ellos? Por otro lado, Isabel me dijo que quería hablar un poco. Fuimos al patio a ordenar y recojer basura. Me pidió fomentar el equipo y no la división.

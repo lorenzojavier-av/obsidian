@@ -13,6 +13,7 @@ re# MOC - Organización
 - [[Cobrar mi primer sueldo en Jauja]]
 - [[Soporte articulado portátil multipropósito]]
 - [[Leer Limitless]]
+- [[Reporte a Camilo]]
 
 ##  Checklists
 - [[Cacería de libros]]
