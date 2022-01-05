@@ -222,3 +222,6 @@ Tuve la entrevista el martes 24 de noviembre. Tuve la prueba el jueves 25 de nov
 ### Tercera semana
 #### Lunes 13
 Quiero saber por qué Jauja se llama Jauja. Quiero aprender bien las tortas. Quiero leer aunque sea 10 minutos más del documento sobre cafetería que me pasó Camilo.
+
+---
+Hoy es Martes 3 de enero del 

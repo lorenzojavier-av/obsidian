@@ -1,4 +1,4 @@
-# MOC - Organización
+re# MOC - Organización
 ¿Qué quiero registrar cada día? ¿Cada semana? ¿Cada mes? ¿Cada año?
 
 ## Áreas de Foco

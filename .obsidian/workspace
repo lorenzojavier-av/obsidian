@@ -16,6 +16,18 @@
         }
       },
       {
+        "id": "edaf5879cfa5ab28",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Jauja.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
         "id": "84ae7abaa0fc3caf",
         "type": "leaf",
         "state": {
@@ -148,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "compras",
+                "query": "jauja",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC - Organización.md",
+                "file": "Jauja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOC - Organización.md",
+                "file": "Jauja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -236,8 +248,9 @@
     "width": 312.4783630371094,
     "collapsed": true
   },
-  "active": "3f5e34bd9787a410",
+  "active": "edaf5879cfa5ab28",
   "lastOpenFiles": [
+    "Jauja.md",
     "MOC - Organización.md",
     "Leer Limitless.md",
     "GTD.md",
@@ -246,7 +259,6 @@
     "¿A quiénes les quiero escribir o hablar por fin de año?.md",
     "pro_Trabajos Donna y Moti.md",
     "Cacería de libros.md",
-    "Cobrar mi primer sueldo en Jauja.md",
-    "Documentation/Diario/viernes-31-diciembre-2021.md"
+    "Cobrar mi primer sueldo en Jauja.md"
   ]
 }
