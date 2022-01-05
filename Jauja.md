@@ -1,4 +1,7 @@
+# Jauja
+**Objetivo**
 
+Trabajar honorablemente, ofreciendo lo mejor de mí, de manera que mi servicio sea apreciado y yo aprenda y me nutra todo lo que pueda, y que al finalizar la relación no haya más que buenos deseos por ambas partes.
 ## Salario
 - [[Acuerdo Salarial Uthgra]]
 
@@ -130,8 +133,9 @@ Originado en:
 
 - Compras por el personal:
 	- Aplico descuento del %50, cobro y registro en la planilla como "%50" Requiere firma del comprador
-	- Si es café que se consume durante el turno, no lo cobro y registro en la planilla como "%100", no requiere firma del consumidor
-- 
+- Si es café que se consume durante el turno, no lo cobro y registro en la planilla como "%100", no requiere firma del consumidor
+
+
 ### Telefonista
 - Whatsapp
 	- Códigos
@@ -143,7 +147,6 @@ Originado en:
 - Heladeras:
 	- La de tortas ha de tener al menos tres porciones de cada ejemplar de las individuales y una de cada ejemplar de las enteras. Si una torta está cortada o hay una porción cortada, debe ser cubierta con folex allí donde su interior esté expuesto, para evitar que se reseque muy rápido.
 	- La de gaseosas debe estar completa con gaseosas, agua, cervezas; con una bandeja de dips de queso rallado, otra de dips de queso untable, otra con frasquitos de mermelada, dipcitos de queso crema y paquetitos de manteca.
-- Los baños se revisan cada 30 minutos, si necesitan limpieza se avisa al bachero
 
 ## Notas varias
 - Noto muchas quejas en el equipo: discusiones con la cocina acerca de malas actitudes o reacciones hostiles a requisitos legales. Ejemplo: Un mozo pide que se marche algo, la un miembro de la cocina dice que ya se marchó y se niega a hacerlo de nuevo. El pedido no llegó a la mesa, qué pasó con el es secundario y deberíamos enfocarnos en resolver la situación de cara al cliente primero.
@@ -189,39 +192,42 @@ Originado en:
 - Me probé y me parece que me fué muy bien.
 - Espero confirmación #lunes-29-11-21 
 - #lunes-29-11-21 Confirmado, empiezo a trabajar desde el #jueves-02-12-2021 a las 08:00.
-### Primera Semana
-Tuve la entrevista el martes 24 de noviembre. Tuve la prueba el jueves 25 de noviembre. El lunes me llamaron y empecé a trabajar el jueves 2. Mirá:
-- Jueves 2-12-21, **10 a 18 hs**
-- Viernes 3-12-21, **8 a 16 hs**
-- Sábado 4-12-21, **9 a 17 hs**
-- Domingo 5-12-21, **9 a 17 hs**
+### Día a día
+- **Martes 24 de noviembre:** Tuve la entrevista. 
+- **Jueves 25 de noviembre:** Tuve la prueba.
+- **Lunes 29 de noviembre:** Me llamaron para confirmar que me aceptaban.
+1. **Jueves 2 de diciembre:** Empecé a trabajar. 
+2.  **Lunes 6 de diciembre:** Estuve en la caja, asistido y guiado por Ema. Fué muy bueno, es un hombre impetuoso, de carácter explosivo y a la vez bonachón, jajaja. Me recuerda a mi tío. Hice dos arqueos, el primero muy bien, el segundo con una diferencia de unos 2000 y pico. Había ingresado mal unos cobros (como tarjetas uno en efectivo, y lo opuesto también), nos tomó un rato encontrar el error.
+3. **Martes 7 de diciembre:** Ema me dijo que vengo muy bien con las comandas, que están bien claras. Fué re lindo :)
+4.  **Miércoles 8 de diciembre:** Presencié un conflicto entre Fede e Inés. Ella le dijo algo en público que era una especie de reclamo. Parecía genuino, sin embargo Fede respondió irritado y sin paciencia, como un dictador. Fué feo. Los quiero a ambos. Pienso que Inés tiene muchas cosas de las que quejarse, quizá por eso tiene poco compromiso. Fede parece tener mucha responsabilidad, y estar muy cansado. Sin duda recibe una gran parte de las quejas. Creo que parte de su reacción tiene que ver con la manera en que Inés lo enfrentó, y en que lo hizo frente a otros miembros del equipo y a la vista de la clientela, así que él se mostró pétreo, como destacando su posición de autoridad. ¿Podré ser puente entre ellos? Por otro lado, Isabel me dijo que quería hablar un poco. Fuimos al patio a ordenar y recojer basura. Me pidió fomentar el equipo y no la división.
+5. **Jueves 9 de diciembre:** La reunión fué breve. Fué de carácter informativo. Los puntos fueron estos:
+	- Daniela retorna el manto de encargada a Fede
+	- Los baños se limpian por *?* a la apertura y por *?* al cierre. El equipo del salón se encarga de revisar los baños cada 30 minutos y en caso de ser necesario avisa al bachero para que los limpie
+	- Se van a reinstaurar las listas de comprobación (eso me entusiasma)
+	- Soy un cajero-barista en capacitación
+	- Puntualidad
+	- No usar el celular frente a la clientela
+6. **Viernes 10 de diciembre:** Acordamos dividir las propinas por turno y cabeza unificando cocina y salón. Me agregaron al grupo de Whatsapp.
+7.  **Sábado 11 de diciembre:** Dividimos las mesas en plazas, fué mejor.
+8.  **Domingo 12 de diciembre:**
+9.  **Lunes 13 de diciembre:** Quiero saber por qué Jauja se llama Jauja. Quiero aprender bien las tortas. Quiero leer aunque sea 10 minutos más del documento sobre cafetería que me pasó Camilo.
+10.  **Martes 14 de diciembre:**
+11.  **Miércoles 15 de diciembre:**
+12.  **Jueves 16 de diciembre:**
+13.  **Viernes 17 de diciembre:**
+14. **Sábado 18 de diciembre:**
+15. **Lunes 20 de diciembre:**
+16. **Martes 21 de diciembre:**
+17. **Miércoles 22 de diciembre:**
+18. **Viernes 24 de diciembre:**
+19. **Sábado 25 de diciembre:**
+20. **Domingo 26 de diciembre:**
+21. **Lunes 27 de diciembre:**
+22. **Martes 28 de diciembre:**
+23. **Miércoles 29 de diciembre:**
+24. **Jueves 30 de diciembre:**
+25. **Sábado 1 de enero:**
+26. **Domingo 2 de enero:**
+27. **Lunes 3 de enero:**
+28. **Miércoles 5 de enero:**
 
-### Segunda semana <--(corriente)
-- Lunes 6, **12 a 16 hs**
-	- Estuve en la caja, asistido y guiado por Ema. Fué muy bueno, es un hombre impetuoso, de carácter explosivo y a la vez bonachón, jajaja. Me recuerda a mi tío. Hice dos arqueos, el primero muy bien, el segundo con una diferencia de unos 2000 y pico. Había ingresado mal unos cobros (como tarjetas uno en efectivo, y lo opuesto también), nos tomó un rato encontrar el error.
-- Martes 7, **12 a 16 hs**
-	- Ema me dijo que vengo muy bien con las comandas, que están bien claras. Fué re lindo :)
-- Miércoles 8, **12 a 16 hs**
-	- Conflicto entre Fede e Inés. Ella le dijo algo en público que era una especie de reclamo. Parecía genuino, sin embargo Fede respondió irritado y sin paciencia, como un dictador. Fué feo. Los quiero a ambos. Pienso que Inés tiene muchas cosas de las que quejarse, quizá por eso tiene poco compromiso. Fede parece tener mucha responsabilidad, y estar muy cansado. Sin duda recibe una gran parte de las quejas. Creo que parte de su reacción tiene que ver con la manera en que Inés lo enfrentó, y en que lo hizo frente a otros miembros del equipo y a la vista de la clientela, así que él se mostró pétreo, como destacando su posición de autoridad. ¿Podré ser puente entre ellos?
-	- Isabel me dijo que quería hablar un poco. Fuimos al patio a ordenar y recojer basura. Me pidió fomentar el equipo y no la división.
-- Jueves 9, **16 a 16:30 hs**
-	- La reunión fué breve. Fué de carácter informativo. Los puntos fueron estos:
-		- Daniela retorna el manto de encargada a Fede
-		- Los baños se limpian por *?* a la apertura y por *?* al cierre. El equipo del salón se encarga de revisar los baños cada 30 minutos y en caso de ser necesario avisa al bachero para que los limpie
-		- Se van a reinstaurar las listas de comprobación (eso me entusiasma)
-		- Soy un cajero-barista en capacitación
-		- Puntualidad
-		- No usar el celular frente a la clientela
-- Viernes 10, **10 a 18 hs**
-	- Acordamos dividir las propinas por turno y cabeza unificando cocina y salón.
-	- Me agregaron al grupo de Whatsapp
-- Sábado 11, **8 a 16 hs**
-	- Dividimos las mesas en plazas, fué mejor.
-- Domingo 12, **8 a 16 hs**<--(corriente)
-
-### Tercera semana
-#### Lunes 13
-Quiero saber por qué Jauja se llama Jauja. Quiero aprender bien las tortas. Quiero leer aunque sea 10 minutos más del documento sobre cafetería que me pasó Camilo.
-
----
-Hoy es Martes 3 de enero del 2022.

@@ -7,6 +7,7 @@ re# MOC - Organización
 - [[Visión 2024-2027]]
 
 ## Proyectos
+- [[Jauja]]
 - [[Aprender suficiente programación para aplicar a un puesto trainee en Argentina]]
 - [[¿A quiénes les quiero escribir o hablar por fin de año?]]
 - [[Cobrar mi primer sueldo en Jauja]]

@@ -16,12 +16,24 @@
         }
       },
       {
-        "id": "dd1c8a32ddd177cb",
+        "id": "930b4841beb4d682",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Citas.md",
+            "file": "Jauja.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "c7155532c4484165",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Documentation/Diario/miércoles-05-enero-2022.md",
             "mode": "source",
             "source": false
           }
@@ -103,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentation/Diario/martes-04-enero-2022.md",
+                "file": "Jauja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documentation/Diario/martes-04-enero-2022.md",
+                "file": "Jauja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,17 +164,17 @@
     "direction": "horizontal",
     "width": 312.4783630371094
   },
-  "active": "78d4ea971033f82e",
+  "active": "930b4841beb4d682",
   "lastOpenFiles": [
+    "Jauja.md",
+    "Documentation/Diario/martes-28-diciembre-2021.md",
+    "MOC - Organización.md",
+    "Trabajo.md",
     "Documentation/Diario/martes-04-enero-2022.md",
     "Documentation/Diario/miércoles-05-enero-2022.md",
     "Citas.md",
-    "MOC - Organización.md",
     "Visión 2024-2027.md",
     "Visión 2022-2024.md",
-    "Jauja.md",
-    "Leer Limitless.md",
-    "GTD.md",
-    "Acuerdo Salarial Uthgra.md"
+    "Leer Limitless.md"
   ]
 }
