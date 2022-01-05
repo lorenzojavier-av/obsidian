@@ -7,3 +7,4 @@
 6. "There is a tide in the affairs of men, Which taken at the flood, **leads on to fortune**. Omitted, all the voyage of their life is bound in shallows and in miseries. On such a full sea are we now afloat. And we must take the current when it serves, or lose our ventures." ~ [[William Shakespeare]]
 7. “But I'll tell you what hermits realize. If you go off into a far, far forest and get very quiet, you'll come to understand that you're connected with everything.” ~ [[Alan Watts]]
 8. "The right way to wholeness is made up of…fateful detours and wrong turnings. It is a longissima via, not straight but snakelike, a path that unites the opposites in the manner of the guiding caduceus, a path whose labryrinthine twists and turns are not lacking in terrors." ~[[Carl Jung]]
+9. “It is not insult from another that causes you pain. It is the part of your mind that agrees with the insult. Agree only with the truth about you, and you are free.” ~[[Alan Cohen]]
