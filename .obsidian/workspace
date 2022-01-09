@@ -38,30 +38,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "c7155532c4484165",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Documentation/Diario/miércoles-05-enero-2022.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "78d4ea971033f82e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Documentation/Diario/martes-04-enero-2022.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
